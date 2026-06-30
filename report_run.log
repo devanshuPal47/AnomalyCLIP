@@ -1,3 +1,56 @@
 nohup: ignoring input
 /home/devanshu/Downloads/zero-shot-anomaly/AnomalyCLIP/AnomalyCLIP_lib/model_load.py:6: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
   from pkg_resources import packaging
+Using device: cuda
+name ViT-L/14@336px
+text_layer False
+text_layer True
+Initializing class-specific contexts
+single_para torch.Size([4, 768])
+single_para torch.Size([4, 768])
+single_para torch.Size([4, 768])
+single_para torch.Size([4, 768])
+single_para torch.Size([4, 768])
+single_para torch.Size([4, 768])
+single_para torch.Size([4, 768])
+single_para torch.Size([4, 768])
+embedding_pos torch.Size([1, 77, 768])
+tokenized_prompts shape torch.Size([1, 1, 77]) torch.Size([1, 1, 77])
+Processed 50/1725
+Processed 100/1725
+Processed 150/1725
+Processed 200/1725
+Processed 250/1725
+Processed 300/1725
+Processed 350/1725
+Processed 400/1725
+Processed 450/1725
+Processed 500/1725
+Processed 550/1725
+Processed 600/1725
+Processed 650/1725
+Processed 700/1725
+Processed 750/1725
+Processed 800/1725
+Processed 850/1725
+Processed 900/1725
+Processed 950/1725
+Processed 1000/1725
+Processed 1050/1725
+Processed 1100/1725
+Processed 1150/1725
+Processed 1200/1725
+Processed 1250/1725
+Processed 1300/1725
+Processed 1350/1725
+Processed 1400/1725
+Processed 1450/1725
+Processed 1500/1725
+Processed 1550/1725
+Processed 1600/1725
+Processed 1650/1725
+Processed 1700/1725
+Processed 1725/1725
+
+Done. Excel report: ./results/full_report/anomaly_results.xlsx
+Heatmaps: ./results/full_report/imgs
